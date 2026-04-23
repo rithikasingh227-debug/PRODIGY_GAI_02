@@ -24,6 +24,8 @@ Used pre-built notebooks for easier execution without setup.
 
 ![A cute robot reading a book](sd_output.png)
 
+This image was generated using Stable Diffusion with the prompt: "A cute robot reading a book"
+
 📊 **Comparison**
 
 | Model            | Quality | Speed  | Ease      |
