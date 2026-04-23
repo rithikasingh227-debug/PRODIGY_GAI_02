@@ -22,7 +22,7 @@ Used pre-built notebooks for easier execution without setup.
 
 🖼️ **Output**
 
-![Generated Image](sd_output.png)
+![A cute robot reading a book](sd_output.png)]
 
 📊 **Comparison**
 
