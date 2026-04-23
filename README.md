@@ -1,25 +1,29 @@
-# PRODIGY_GAI_02
-✨**Image Generation using AI**
-This project shows how AI generates images from text.
+🧠 **Project Overview**
+This project demonstrates image generation using pre-trained generative AI models. It converts text prompts into images using modern deep learning techniques.
 
-🧠**Models Used**
-Stable Diffusion
-DALL·E Mini
+🔬**Methods Used**
+**1. Stable Diffusion with KerasCV**
+Used for high-quality image generation from text prompts.
 
-💻**How it works**
-User gives a text prompt
-Model converts text → image
-Output is generated
+**2. DALL·E Mini**
+A lightweight model used for quick image generation with lower computational cost.
 
-📚**References Used**
-1. Stable Diffusion with KerasCV
-Used for high-quality image generation
+**3. Aspect Ratio Variation**
+Images were generated in different sizes (512×512, 768×512) to explore flexibility.
 
-2. DALL·E Mini
-Used for lightweight generation
+**4. Diffusion Colab**
+Used pre-built notebooks for easier execution without setup.
 
-3. E-DALL·E
-Used to experiment with different image sizes
+🖼️ **Output**
+![Generated Image](sd_output.png)
 
-4. Diffusion Colab
-Used for easy execution without setup
+📊 **Comparison**
+| Model            | Quality | Speed  | Ease      |
+| ---------------- | ------- | ------ | --------- |
+| Stable Diffusion | High    | Medium | Medium    |
+| DALL·E Mini      | Medium  | Fast   | Easy      |
+| Colab Diffusion  | High    | Medium | Very Easy |
+
+🚀 **Conclusion**
+
+Pre-trained models simplify image generation. Stable Diffusion provides high-quality outputs, while DALL·E Mini offers faster but less detailed results. Colab-based solutions make implementation easier.
